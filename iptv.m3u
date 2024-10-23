@@ -18,15 +18,29 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
 
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel (720p)
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Canada (540p)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
 #EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="General",FOX 26 Houston TX (KRIV) (720p)
 https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Family",Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hallmark Movies & More
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="Movies",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://i.imgur.com/QV7Lt5j.png" group-title="Movies",MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-
 
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="News",OAN (1080p)
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
@@ -37,11 +51,17 @@ https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us" tvg-logo="https://i.imgur.com/0xW69iu.png" group-title="News",OAN Plus
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7815-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90d7ae21-b8ff-4bf0-a4e4-79081c9d1445
 
+#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Undefined",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Undefined",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -61,6 +81,27 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="Undefined",Starz Encore East
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
-
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Undefined",Syfy East
 http://fl2.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music",VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
